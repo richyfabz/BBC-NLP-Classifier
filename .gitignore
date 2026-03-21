@@ -1,0 +1,23 @@
+venv/
+
+# Data files
+data/
+
+
+# Model weights
+models/
+
+# Output charts
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Numpy arrays
+*.npy
+
+# PyTorch weights
+*.pt
