@@ -2,7 +2,7 @@ venv/
 
 # Data files
 data/
-
+cleaned_data/
 
 # Model weights
 models/
